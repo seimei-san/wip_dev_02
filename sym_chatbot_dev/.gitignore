@@ -12,3 +12,4 @@ datafeed.id
 **/__pycache__
 
 .wip_env
+.env
