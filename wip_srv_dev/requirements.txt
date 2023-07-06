@@ -1,0 +1,8 @@
+pymongo
+python-dotenv
+flask
+bson
+openai
+beautifulsoup4
+lxml
+mysql-connector-python
